@@ -1,4 +1,6 @@
 CocciGerato changelog v1
+version 10 1790801700
+notes Pourquoi
 version 9 1790801570
 notes [+] Touche plus a rien ta grand mere
 version 8 1790801395
@@ -14,4 +16,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature 9RNPM4RCPD4H8HK5E5AXC0BC6SK4MNMHX75C572EFFWHBZ1A1PPNF3GKGXC60SAN0K52WY5CYYVF7VJ6002YZVAQY12T3FSYR6AR268
+signature X1A9X5ZCNVC7FNHJ5J8V9188JNDKMV842X30J4VB6WMHE2AWRJF2WVCFZH8T6SNPKQ2WCA3DB2HVP4CN4EE3JRGZ7A6YGJC3QP9B5Q0
