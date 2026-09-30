@@ -1,0 +1,5 @@
+CocciGerato announce v1
+issued 1790784628
+level info
+text Une nouvelle version est disponible : relance le launcher pour l'installer.
+signature 1ZDR8G9PQA6NYCRNZH7A0T8H8WKEDSSQAXN7CWJM026C3H0JQ4Y921Y0764Z4MMKD3S3YW762PY2B6Q2N8ASEVH9W4TRZ1JSHF3BSDR
