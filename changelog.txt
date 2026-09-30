@@ -1,0 +1,7 @@
+CocciGerato changelog v1
+version 4 1790783345
+notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
+notes [+] Point jaune dans le menu quand une mise à jour est disponible
+version 3 1790782803
+notes [+] Mise a jour du Loader automatique
+signature J9F495TRGSFKPE88TR9NJ740D3WSFCBDS7FZTT85HX6FF5R9FYC2WBHBN2HAV4JQSTBZHYMJJ6G2GG92F8DGN227W1PJX19CGPYF7R0

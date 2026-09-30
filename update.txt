@@ -1,8 +1,9 @@
 CocciGerato update v1
-version 3
-issued 1790782803
-file launcher/CocciGerato-3.exe
-size 12606464
-sha256 6c2251e979fabf87f4f9d8fa6c18b86a08471b1e1e8018ee9f3ab6b8b8940973
-notes [+] Mise a jour du Loader automatique
-signature G6JF16K9XDEZXNKQNV9XY8TEBKQRB104FT02S5YE49NAYNKA5E2PVX6H2Z6PKWHEQH0JKZD6K5KR2A3XG82FSZ5YA2HHVZ9MVD0R8DR
+version 4
+issued 1790783345
+file launcher/CocciGerato-4.exe
+size 12624384
+sha256 77e9d6026ca6d66ac2ab0c8a35d45cbc5d54f1fc6ea027e791780c28c06986c9
+notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
+notes [+] Point jaune dans le menu quand une mise à jour est disponible
+signature PV58WM4HA592SFRTRMYQ4XYVE14ZGEWFXJ404H631J36NCHSJ2Y7DAZM54RYH9H4577ZCBYSWDK9VA1DS37EQRQDNYSWPPTND2C8WW8
