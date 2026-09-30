@@ -1,4 +1,6 @@
 CocciGerato changelog v1
+version 6 1790799587
+notes rhrdrdrh
 version 5 1790784539
 notes [+] Annonces : les messages importants s'affichent en haut du launcher
 version 4 1790783345
@@ -6,4 +8,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature 43RWH354S9Q6CYPC2B7QX4YS9JT146WDQDDGPCFSGZ2QE3F991FVZYABBG88C7F4M9FJBJ6RS5A5W3NSX6QJXC7XQ6A3BJ0M35CQ150
+signature G8S5DJB6ATE63HBBDKWRHNDQ21TTD532HVEVF475DP1FQW155STYBJTNR0DZ1AMD29SC56NR0QA6B0H35EZRY7YZK22DZBHF0YHZG60
