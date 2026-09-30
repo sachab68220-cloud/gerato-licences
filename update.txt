@@ -1,9 +1,8 @@
 CocciGerato update v1
-version 4
-issued 1790783345
-file launcher/CocciGerato-4.exe
-size 12624384
-sha256 77e9d6026ca6d66ac2ab0c8a35d45cbc5d54f1fc6ea027e791780c28c06986c9
-notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
-notes [+] Point jaune dans le menu quand une mise à jour est disponible
-signature PV58WM4HA592SFRTRMYQ4XYVE14ZGEWFXJ404H631J36NCHSJ2Y7DAZM54RYH9H4577ZCBYSWDK9VA1DS37EQRQDNYSWPPTND2C8WW8
+version 5
+issued 1790784539
+file launcher/CocciGerato-5.exe
+size 12635136
+sha256 b4ddf47982a90c3a9e2c17bd6abddd26cae5bc988860a6a59dfbdb87e7e99c1a
+notes [+] Annonces : les messages importants s'affichent en haut du launcher
+signature GX4A1BMWB1SVF1CSSSXXAC1Y7ANWQ5WFWX970T5B8M12QZD3K7QEDZM10SDFBJHYMWMEMVAJW89SFYFGDZA79VQXBCDEY7Z56QCWE0G
