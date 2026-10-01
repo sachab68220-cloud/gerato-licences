@@ -1,4 +1,9 @@
 CocciGerato changelog v1
+version 15 1790867442
+notes [*] Offsets UPDATED
+notes [+] Inventory changer works (but skins doesn't work in game)
+notes [-] [!] Triggerbot (Doesn't work)
+notes [!] [!] Bhop (Causes Game Crashing)
 version 14 1790863748
 notes [+]English vesion
 version 13 1790807681
@@ -26,4 +31,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature ADCV0TNRXJB71D2NCQ24QH0W6S5G4VKXDBZVTMTNAJ1J272H0F5RQ5QDZE3KDJ3JDP87KRDHMA0XNTX0319VG3JJNH332NYYMDM7KEG
+signature JYZAPD9NVZ2AP27FEJNGM8GCZ3PWBHR9S28XPAMRW30REB2VGZSVW0AM6S09KV1YAG3RMVHENRMQVGC5TFD5K2YEV2DQ5R23717WKHG
