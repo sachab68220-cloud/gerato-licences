@@ -1,10 +1,8 @@
 CocciGerato update v1
-version 13
-issued 1790807681
-file launcher/CocciGerato-13.exe
-size 18246144
-sha256 a7d0d0969705702299f3b004225a0448fa6911b52f52ecc548ccd92ac00a55ce
-notes [!][!] TriggerBot detected
-notes [*][*] Fixed English version
-notes [-][-] French version removed
-signature 2M0YTJ2VX5V687SPSRVD08RXXJS86AQE65KEK6M379ZCH6KWBC5PFGTDAGF6TTPWRN4V2EKKECDKPX7B91FERE4ZRV06J0XNC4AGM48
+version 14
+issued 1790863748
+file launcher/CocciGerato-14.exe
+size 18244096
+sha256 9e68cbf11a1c1ca49ce4cfc7d4d113ac9d5d430f4acdd4dcef2b9b505678a03d
+notes [+]English vesion
+signature 9ZKN09YZS8JGDG1QZSKYKRWVE93MVDG9GDWSCHFRCFVJK7NAB23SXNQ8GTPP1EJQPBKESV7ZS78T1YF97ZGRBGD7KY0T7JW88K5QQQ0

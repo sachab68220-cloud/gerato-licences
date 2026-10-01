@@ -1,4 +1,6 @@
 CocciGerato changelog v1
+version 14 1790863748
+notes [+]English vesion
 version 13 1790807681
 notes [!][!] TriggerBot detected
 notes [*][*] Fixed English version
@@ -24,4 +26,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature 2YMC8FY4YERSC06660Y4VQ1E5EGCJF4ABHGTZ3ZFZ7XAW7XJKV6A5B4HQ64Z3QETXQ78CZ9NG6DKRF3K6ZHFBE3WQQWQXVAC6RKKSF0
+signature ADCV0TNRXJB71D2NCQ24QH0W6S5G4VKXDBZVTMTNAJ1J272H0F5RQ5QDZE3KDJ3JDP87KRDHMA0XNTX0319VG3JJNH332NYYMDM7KEG
