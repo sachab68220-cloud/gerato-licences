@@ -1,4 +1,6 @@
 CocciGerato changelog v1
+version 20 1790983319
+notes [*]fixed space on loadout case
 version 19 1790969111
 notes [+][+] Radar 2D
 notes [+][+] Teammates Aimbot
@@ -60,4 +62,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature YVKCCEMMHBK2K5Y4CFPK6RF5AAQ8W7X4H1EFFKPCEZASVQDA2HK5R4YQTTZ43Q66XXX5B7BQQNYZ13JQ7RK0D30YYMC22FMKA3714T8
+signature VBW2FG0RTWGZZJKEAATN7KFNC2EZGC455E3D7HH9M6DEF2BZ43K0SVG01H4DSZ5JXTDJ87TRJX1QFNP9H7149Z10HE9EAGXX16212T0
