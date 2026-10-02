@@ -1,12 +1,10 @@
 CocciGerato update v1
-version 18
-issued 1790965852
-file launcher/CocciGerato-18.exe
-size 12703744
-sha256 a1efd72fdaf50185c35a4ea7e62c56b3bc3b77c45e0e3eefd515ed1b9bc2c369
-notes [+][+] Added Triggerbot Wallbang
-notes > Shoot even through walls
-notes [+][+] Radar Overlay
-notes > A radar with a lot of information (ennemies, bomb...)
-notes [!][+] Fixed Bunnyhop
-signature AEG3BR5Q85KV8TMEBBQQCWKY6H9DP57TX68NTJF5A1MM5CZVY8D4B9KT789MFQ53E61BAT7MWWV0T877SH9J6QHEPZS47NTWWEPXBB8
+version 19
+issued 1790969111
+file launcher/CocciGerato-19.exe
+size 12710912
+sha256 9206302dca41f5c7e4fb6efa625ddec945562d1e82b9cb7eb9a2612c7dbfe631
+notes [+][+] Radar 2D
+notes [+][+] Teammates Aimbot
+notes [+][+] Teammates Triggerbot
+signature S5SYXZ95NBJAVV05WBXQC6G1DQVQN3GW8266THAQK4ERPD4EZCBT6EY9HAN66W95B1Y6M6EY798YZAHEFH8HBWMGTHF478GDAW6YVD8

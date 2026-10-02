@@ -1,4 +1,8 @@
 CocciGerato changelog v1
+version 19 1790969111
+notes [+][+] Radar 2D
+notes [+][+] Teammates Aimbot
+notes [+][+] Teammates Triggerbot
 version 18 1790965852
 notes [+][+] Added Triggerbot Wallbang
 notes > Shoot even through walls
@@ -56,4 +60,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature VN858D1KQNN2GWDN1CBJSVHQ3ZYX70B93GTZMZX71FA9S8NNJTSK85AYNEKFAG231DAPGEZ592VKDW7MFZD87TNWS7WAP7HVREHDKD8
+signature YVKCCEMMHBK2K5Y4CFPK6RF5AAQ8W7X4H1EFFKPCEZASVQDA2HK5R4YQTTZ43Q66XXX5B7BQQNYZ13JQ7RK0D30YYMC22FMKA3714T8
