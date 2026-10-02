@@ -1,11 +1,20 @@
 CocciGerato update v1
-version 16
-issued 1790945125
-file launcher/CocciGerato-16.exe
-size 12634112
-sha256 04859a40d454d91ae1a86917e317b425702976c2a603e39fe68d902216db9fb5
-notes [+] [+] UPDATED to work with the last version
-notes [+] [+} Bunny hop fixed
-notes [+] [+] Skin changer fixed
-notes [!] [!] Triggerbot not fixed
-signature 4G1T2789DDADZC0JTVA5QJW68J70RHQ4J4J055NFN6BND47HJ0M2QR1W2YJY0YQYBVVGY2B98CTFF1S7CHWQ4QVGAK3K6AE7MYV4P00
+version 17
+issued 1790957441
+file launcher/CocciGerato-17.exe
+size 12687872
+sha256 8be4b8c40527ad92b0a5b89abfdc6b3fd55e5261c22431bc50d2d5e437455f1e
+notes [!]BIG UPDATE
+notes [ + Features ]
+notes [+][+] Added penetration crosshair
+notes > Displays a dot in the center of the crosshair (green if a wallbang is possible, red if a wallbang is not possible)
+notes [+][+] Added molotov Timer
+notes > Displays the same timer as the smoke grenade, but for the Molotov cocktail
+notes [+][+] Added grenade trajectory
+notes > Displays the trajectories of projectiles (grenades, smoke grenades, flash grenades, Molotov cocktails, decoys)
+notes [ + Weapon Aim / Mods ]
+notes [*][+] Fixed triggerbot
+notes > Updated to work with the latest version
+notes [*][+] New Aimbot system
+notes > Un aimbot beaucoup plus performant et direct
+signature XKDKRQSDFZBPKM6K2ANFAM101WKCQ8DN7373X19XSR5V4SEZFZ8BNDBRCK0AYGQFQ5P405CYQ76082S8X3F191XB5BKZSY11MWSQN1R

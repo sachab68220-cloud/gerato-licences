@@ -1,4 +1,18 @@
 CocciGerato changelog v1
+version 17 1790957441
+notes [!]BIG UPDATE
+notes [ + Features ]
+notes [+][+] Added penetration crosshair
+notes > Displays a dot in the center of the crosshair (green if a wallbang is possible, red if a wallbang is not possible)
+notes [+][+] Added molotov Timer
+notes > Displays the same timer as the smoke grenade, but for the Molotov cocktail
+notes [+][+] Added grenade trajectory
+notes > Displays the trajectories of projectiles (grenades, smoke grenades, flash grenades, Molotov cocktails, decoys)
+notes [ + Weapon Aim / Mods ]
+notes [*][+] Fixed triggerbot
+notes > Updated to work with the latest version
+notes [*][+] New Aimbot system
+notes > Un aimbot beaucoup plus performant et direct
 version 16 1790945125
 notes [+] [+] UPDATED to work with the last version
 notes [+] [+} Bunny hop fixed
@@ -36,4 +50,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature G3MMXARTY2H8NDVY8Y6HSFVJ942PQ23TQBNAH4MBR2ATVF5AH8803CPPF3J9Q8TZNKMB11RDFZMTQTBSFT9TAFZNTTY08ZBXS3W5FA8
+signature R34W2NFE961QVZMJ3MXNQXSWPTV6EZ868JQ996ZZRRFPECBBX87PA7FYCB1R2Q86SS06W1941D4PWNJBT028BA6TJ5YJ4QJD97C5XKG
