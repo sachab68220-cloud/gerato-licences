@@ -1,4 +1,10 @@
 CocciGerato changelog v1
+version 18 1790965852
+notes [+][+] Added Triggerbot Wallbang
+notes > Shoot even through walls
+notes [+][+] Radar Overlay
+notes > A radar with a lot of information (ennemies, bomb...)
+notes [!][+] Fixed Bunnyhop
 version 17 1790957441
 notes [!]BIG UPDATE
 notes [ + Features ]
@@ -50,4 +56,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature R34W2NFE961QVZMJ3MXNQXSWPTV6EZ868JQ996ZZRRFPECBBX87PA7FYCB1R2Q86SS06W1941D4PWNJBT028BA6TJ5YJ4QJD97C5XKG
+signature VN858D1KQNN2GWDN1CBJSVHQ3ZYX70B93GTZMZX71FA9S8NNJTSK85AYNEKFAG231DAPGEZ592VKDW7MFZD87TNWS7WAP7HVREHDKD8
