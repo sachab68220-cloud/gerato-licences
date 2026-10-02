@@ -1,11 +1,11 @@
 CocciGerato update v1
-version 15
-issued 1790867442
-file launcher/CocciGerato-15.exe
-size 12644352
-sha256 f2853bb0cbbda940258d51ab4ff8c5c9ee2bc232d78489be653c8abf7fc18490
-notes [*] Offsets UPDATED
-notes [+] Inventory changer works (but skins doesn't work in game)
-notes [-] [!] Triggerbot (Doesn't work)
-notes [!] [!] Bhop (Causes Game Crashing)
-signature YFMDT37FQQ6Y765JVQ8CXJH92RH7XJ7ERVQ5BXF8HYDZTF5VGPK2SNGFSYPZZRYJ5TDPRHMZ9H9FSTASKHZFXYSQY8P5HWCWNVKYMZ8
+version 16
+issued 1790945125
+file launcher/CocciGerato-16.exe
+size 12634112
+sha256 04859a40d454d91ae1a86917e317b425702976c2a603e39fe68d902216db9fb5
+notes [+] [+] UPDATED to work with the last version
+notes [+] [+} Bunny hop fixed
+notes [+] [+] Skin changer fixed
+notes [!] [!] Triggerbot not fixed
+signature 4G1T2789DDADZC0JTVA5QJW68J70RHQ4J4J055NFN6BND47HJ0M2QR1W2YJY0YQYBVVGY2B98CTFF1S7CHWQ4QVGAK3K6AE7MYV4P00

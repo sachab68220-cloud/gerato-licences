@@ -1,4 +1,9 @@
 CocciGerato changelog v1
+version 16 1790945125
+notes [+] [+] UPDATED to work with the last version
+notes [+] [+} Bunny hop fixed
+notes [+] [+] Skin changer fixed
+notes [!] [!] Triggerbot not fixed
 version 15 1790867442
 notes [*] Offsets UPDATED
 notes [+] Inventory changer works (but skins doesn't work in game)
@@ -31,4 +36,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature JYZAPD9NVZ2AP27FEJNGM8GCZ3PWBHR9S28XPAMRW30REB2VGZSVW0AM6S09KV1YAG3RMVHENRMQVGC5TFD5K2YEV2DQ5R23717WKHG
+signature G3MMXARTY2H8NDVY8Y6HSFVJ942PQ23TQBNAH4MBR2ATVF5AH8803CPPF3J9Q8TZNKMB11RDFZMTQTBSFT9TAFZNTTY08ZBXS3W5FA8
