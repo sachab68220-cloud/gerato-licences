@@ -1,8 +1,24 @@
 CocciGerato update v1
-version 20
-issued 1790983319
-file launcher/CocciGerato-20.exe
-size 18426368
-sha256 98af7085e4096b96834243d068d6a29c21339046165c6e9059f61c3e2a69e9f1
-notes [*]fixed space on loadout case
-signature CE804PKJ8QSEZNP19BWNVQ8DX2DZ93Q7WQHW54KPZJQCC867B6PP6R6119PP3B1V9ZZFF2DV559RQA3KETP64EJWX1G1ZZA69465NY8
+version 21
+issued 1791032585
+file launcher/CocciGerato-21.exe
+size 12747776
+sha256 cfca893b051fcc7f7d5bcb24d5f46ee5f3fc29aa48a3c5b85bf18d74140a3f78
+notes [!] Update: glow customization, World removals, View options, new on-screen panels
+notes [+][+] Visuals
+notes >Glow: custom color (or team colors) and an outline width slider.
+notes >ESP box: new corners-only style.
+notes [+][+] World > Removals
+notes >No first-person legs: legs stay visible during spawn protection, to avoid the weapon texture bug.
+notes >No shadows.
+notes [+][+] View
+notes >Knife in other hand.
+notes >Flip hands, with a hotkey.
+notes >Third person: with a hotkey and a distance slider, and it works without sv_cheats.
+notes [+][+] On-screen panels (Watermark, C4, Spectators, Radar)
+notes >New design: smaller, more discreet, semi-transparent.
+notes >New Custom: On-screen panels section: opacity, size, background color, accent style (line / bar / none), titles on or off, and a "Default look" button.
+notes [+][+] Merge / fixes
+notes >ESP / C4 / World toggle keys
+notes >Duplicate entries in the config are removed.
+signature QKE6E8J636BF6WHNAA6WVFZBT3TGQ758PCCMVWVYRS59FCSE685WMQ7QGNHXBG5VH197B39MVF3XNQNPVJ517EV2GNX3M39S5QY93GR

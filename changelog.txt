@@ -1,4 +1,22 @@
 CocciGerato changelog v1
+version 21 1791032585
+notes [!] Update: glow customization, World removals, View options, new on-screen panels
+notes [+][+] Visuals
+notes >Glow: custom color (or team colors) and an outline width slider.
+notes >ESP box: new corners-only style.
+notes [+][+] World > Removals
+notes >No first-person legs: legs stay visible during spawn protection, to avoid the weapon texture bug.
+notes >No shadows.
+notes [+][+] View
+notes >Knife in other hand.
+notes >Flip hands, with a hotkey.
+notes >Third person: with a hotkey and a distance slider, and it works without sv_cheats.
+notes [+][+] On-screen panels (Watermark, C4, Spectators, Radar)
+notes >New design: smaller, more discreet, semi-transparent.
+notes >New Custom: On-screen panels section: opacity, size, background color, accent style (line / bar / none), titles on or off, and a "Default look" button.
+notes [+][+] Merge / fixes
+notes >ESP / C4 / World toggle keys
+notes >Duplicate entries in the config are removed.
 version 20 1790983319
 notes [*]fixed space on loadout case
 version 19 1790969111
@@ -62,4 +80,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature VBW2FG0RTWGZZJKEAATN7KFNC2EZGC455E3D7HH9M6DEF2BZ43K0SVG01H4DSZ5JXTDJ87TRJX1QFNP9H7149Z10HE9EAGXX16212T0
+signature 0BWXVV9JEY910W6RNGR02VF1RZDBGQXQ6V15MSBTV678ED4B7TG60EDQCS9MS9YWAGRMSC8Q7FBVF9Y0E2RECNYMZEC2BEQZ4NN519G
