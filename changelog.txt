@@ -1,4 +1,8 @@
 CocciGerato changelog v1
+version 22 1791050933
+notes BIG UPDATE
+notes [+][+] ADDED AUTO-INJECTOR
+notes >Activer l'injection automatique et suivez les consignes
 version 21 1791032585
 notes [!] Update: glow customization, World removals, View options, new on-screen panels
 notes [+][+] Visuals
@@ -80,4 +84,4 @@ notes [+] Nouvelle page Nouveautés : l'historique de toutes les versions
 notes [+] Point jaune dans le menu quand une mise à jour est disponible
 version 3 1790782803
 notes [+] Mise a jour du Loader automatique
-signature 0BWXVV9JEY910W6RNGR02VF1RZDBGQXQ6V15MSBTV678ED4B7TG60EDQCS9MS9YWAGRMSC8Q7FBVF9Y0E2RECNYMZEC2BEQZ4NN519G
+signature 1J4XPG9MX2K234JH40HSWKRWP430J6KEXGMZZVT79ZWB7KMB01XF10TM9DPCV83SWR09KY3SMN910SP597F1D4GRQRQDVBSMS6J4SZ8
